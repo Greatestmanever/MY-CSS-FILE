@@ -1,0 +1,16 @@
+.inner {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border: inherit;
+    background: inherit;
+}
+
+
+.outer{
+    /* background-color: #bbbbbb; */
+    background: url("soft.jpg");
+    background-size: cover;
+    padding: 10px;
+    border: 2px solid black;
+}

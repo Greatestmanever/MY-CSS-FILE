@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    margin-button: 24px;
+    font-size: 24px;
+}
+
+/* R.G.B COLOURS
+white is rgb(255, 255,255)
+Black is rgb(0, 0,0)
+Purple is rgb(128, 0,128) */
+
+a, p{
+    background-color: red;
+    color: blue;
+    text-decoration-color: aqua;
+    border: 1px solid currentcolor;
+}
